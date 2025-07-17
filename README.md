@@ -1,0 +1,1 @@
+The project was intended to analyse the status of heat networks in the UK. The dataset was sourced from the UK Heat Network Planning Database (HNDP). 
